@@ -13,7 +13,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined ? "./database.db" : 
 module.exports = {
    //__________________________________________________________________________________________________________________________________________
   // 🖥️ For Enabling Commands Like AUTO_MSG_READ Type true For Disabling Type false  
- // ℹ️ Removed commands like welcome,goodbye,invite, etc and other commands and features that cause whatsapp account/group ban thank you!
+ // ℹ️ Removed commands like welcome,goodbye,invite etc and other commands and features that cause whatsapp account/group ban thank you!
 //____________________________________________________________________________________________________________________________________________  
   //🤖 BOT CONFIGURATION
   SESSION_ID: process.env.SESSION_ID || '',
